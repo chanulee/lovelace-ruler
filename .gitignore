@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# editor / Figma save backups and KiCad locks
+*.bak
+*.silk-backup.kicad_pcb
+silkscreen.before-*.json
+~*.lck
+*.kicad_prl

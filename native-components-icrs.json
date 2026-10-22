@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "04454c4d-89c6-445f-9f76-d37553c66f8b",
+    "name": "Gauge_150mm_Type1_CopperTop",
+    "x": 0.0,
+    "y": 0.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -0.25,
+      -0.25,
+      155.44256,
+      4.4405
+    ],
+    "drills": [],
+    "texts": [
+      {
+        "id": "58042b90-bd4a-46b3-aa6a-489ab63b74c8",
+        "text": "1",
+        "x": 9.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "313958bb-8dec-45cb-90be-eb34b49b7d9b",
+        "text": "2",
+        "x": 19.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "65a5d251-8db4-4ff4-bf4e-caee82b183fd",
+        "text": "3",
+        "x": 29.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "d3e68afe-44cc-4ce2-8b5b-438a730fe11f",
+        "text": "4",
+        "x": 39.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "6e5a4552-fa61-41d9-8e2e-a3f8d047cc9f",
+        "text": "5",
+        "x": 49.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "890ac175-c278-4d2c-a0ba-48b69cb326f4",
+        "text": "6",
+        "x": 59.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "7781e8b3-9de5-485b-bddc-6520a696e162",
+        "text": "7",
+        "x": 69.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "925b0c09-623b-47a5-893a-ce350e80c0b4",
+        "text": "8",
+        "x": 79.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "0b9ae6d2-a083-4087-a770-65974c5f0532",
+        "text": "9",
+        "x": 89.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "82f6e5d8-300b-46a4-a4e8-42b3918edfc4",
+        "text": "10",
+        "x": 99.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "6006712e-fa5b-44fa-a710-3143190c738b",
+        "text": "11",
+        "x": 109.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "abbfe9fa-e197-4eac-a677-300444876c01",
+        "text": "12",
+        "x": 119.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "8b6b9fb4-4752-4fd5-8a5b-92f02cacd9fe",
+        "text": "13",
+        "x": 129.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "a9bf3ea1-a24a-454e-a65d-753d984f775a",
+        "text": "14",
+        "x": 139.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "6ed0cbcc-6435-4b7a-b9b0-fbcd6f999311",
+        "text": "15",
+        "x": 149.5,
+        "y": 2.5,
+        "size": 2.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      }
+    ]
+  },
+  {
+    "id": "05021469-0b44-404f-bbaf-97b4d631b8c3",
+    "name": "PinHeader_1x04_P1.00mm_Vertical",
+    "x": 99.5,
+    "y": 7.65,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -1.025,
+      -1.175,
+      5.05,
+      2.35
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        0.5
+      ],
+      [
+        1.0,
+        0.0,
+        0.5
+      ],
+      [
+        2.0,
+        0.0,
+        0.5
+      ],
+      [
+        3.0,
+        0.0,
+        0.5
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "0e505e06-e92b-4623-8534-e8fc9af24de7",
+    "name": "PinHeader_1x04_P1.27mm_Vertical",
+    "x": 98.46,
+    "y": 11.65,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -1.175,
+      -1.575,
+      6.15,
+      3.15
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        0.65
+      ],
+      [
+        1.27,
+        0.0,
+        0.65
+      ],
+      [
+        2.54,
+        0.0,
+        0.65
+      ],
+      [
+        3.81,
+        0.0,
+        0.65
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "0f751fb3-161a-4d49-ac37-3b68bca39963",
+    "name": "MountingHole_4.3mm_M4_DIN965_Pad",
+    "x": 126.0,
+    "y": 12.5,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -4.025,
+      -4.025,
+      8.05,
+      8.05
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        4.3
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "13b39409-a2ac-49de-9361-078e827cbd92",
+    "name": "MountingHole_6.4mm_M6_DIN965_Pad",
+    "x": 146.5,
+    "y": 12.4,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -5.775,
+      -5.775,
+      11.55,
+      11.55
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        6.4
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "43d91694-7514-4711-b928-93bdf7a352af",
+    "name": "ICRS_20mm",
+    "x": 77.4,
+    "y": 12.5,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -6.918392,
+      -6.894695,
+      13.514704,
+      13.951705
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "701c3f66-102a-4d04-91a2-4bd79cd98c55",
+    "name": "MountingHole_2.7mm_M2.5_DIN965_Pad",
+    "x": 112.5,
+    "y": 12.5,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -2.625,
+      -2.625,
+      5.25,
+      5.25
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        2.7
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "77f968e0-3bde-4bb2-8a8a-0e8f50e393a1",
+    "name": "R_0402_1005Metric",
+    "x": 5.5,
+    "y": 17.3,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -0.955,
+      -0.495,
+      1.91,
+      0.99
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "90ad56cc-d0f0-41c5-a5e1-a2fd88517d9e",
+    "name": "Gauge_6in",
+    "x": 155.0,
+    "y": 25.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -152.5905,
+      -4.0005,
+      152.8405,
+      4.2505
+    ],
+    "drills": [],
+    "texts": [
+      {
+        "id": "09281593-4370-4c59-833a-8599f3427ae0",
+        "text": "6",
+        "x": -151.765,
+        "y": -2.54,
+        "size": 2.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "353d0f0b-b001-447f-89ac-5b3e80663025",
+        "text": "3/4",
+        "x": -146.05,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "4b3a7e18-8aa8-44b8-9cd8-9744588505a3",
+        "text": "1/2",
+        "x": -139.7,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "d0fff535-1aff-494d-baae-ad96e04c7cc3",
+        "text": "1/4",
+        "x": -133.35,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "1b82f3e7-9d89-4162-b4e8-b89abc5d957d",
+        "text": "5",
+        "x": -126.365,
+        "y": -2.54,
+        "size": 2.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "94bf4866-d14a-4acf-93d9-9cd03a93ce86",
+        "text": "3/4",
+        "x": -120.65,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "2da60a51-8710-4eca-bd5d-784c64f1469f",
+        "text": "1/2",
+        "x": -114.3,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "db7e9bdd-9911-43ad-a06b-37de6b68d49b",
+        "text": "1/4",
+        "x": -107.95,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "66c5f644-1747-4761-a795-1b6bf337e0e4",
+        "text": "4",
+        "x": -100.965,
+        "y": -2.54,
+        "size": 2.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "6f2b6223-7682-4029-a108-6a26432618d4",
+        "text": "3/4",
+        "x": -95.25,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "905d7811-779f-455f-9e2d-5f8b9751f324",
+        "text": "1/2",
+        "x": -88.9,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "d20f67e9-517b-47d7-b815-0249d26a5d69",
+        "text": "1/4",
+        "x": -82.55,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "1d34559b-bdd7-41f1-838f-9aaace4c9dd0",
+        "text": "3",
+        "x": -75.565,
+        "y": -2.54,
+        "size": 2.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "ddb916ab-96c1-42f9-926f-c96dda8f0b31",
+        "text": "3/4",
+        "x": -69.85,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "3799fb35-2a84-433a-b6b0-cb69e8a466f9",
+        "text": "1/2",
+        "x": -63.5,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "8a13ad33-4209-417e-a954-19b7500e29bb",
+        "text": "1/4",
+        "x": -57.15,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "50ff4d03-b6b1-49ea-a7db-d88d11912eaf",
+        "text": "2",
+        "x": -50.165,
+        "y": -2.54,
+        "size": 2.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "3b637b5b-36f3-42e4-939f-44f316d3b28b",
+        "text": "3/4",
+        "x": -44.45,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "4cb2099f-b8eb-4990-8a46-ef9f37d93a78",
+        "text": "1/2",
+        "x": -38.1,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "12ac3602-a049-42d7-abc3-f2c491cdf4d5",
+        "text": "1/4",
+        "x": -31.75,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "53cb05be-fc75-489e-8133-656f5cf7e1e0",
+        "text": "1",
+        "x": -24.765,
+        "y": -2.54,
+        "size": 2.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "end",
+        "valign": "hanging"
+      },
+      {
+        "id": "3c06a85e-940a-41d5-ba2b-191f4e150501",
+        "text": "3/4",
+        "x": -19.05,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "2a44b514-4f0a-49ab-b0f4-026c0e0cb50b",
+        "text": "1/2",
+        "x": -12.7,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "2753187d-1650-4cd8-927e-39e5fcca0413",
+        "text": "1/4",
+        "x": -6.35,
+        "y": -3.81,
+        "size": 1.0,
+        "rotation": -180.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      }
+    ]
+  },
+  {
+    "id": "9f41e52e-0efc-4025-a55f-f83ef0704ef0",
+    "name": "R_0201_0603Metric",
+    "x": 5.5,
+    "y": 18.7,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -0.725,
+      -0.375,
+      1.45,
+      0.75
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "a4816d15-2b1f-4108-9218-d805b49d22e1",
+    "name": "MountingHole_2.2mm_M2_DIN965_Pad",
+    "x": 107.5,
+    "y": 12.5,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -2.175,
+      -2.175,
+      4.35,
+      4.35
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        2.2
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "a66fd73d-b452-4a81-9e69-028bfb696121",
+    "name": "R_1206_3216Metric",
+    "x": 5.5,
+    "y": 10.8,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -2.305,
+      -1.145,
+      4.61,
+      2.29
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "bf1d75f9-c5a4-476d-966a-c5bfec9bad91",
+    "name": "PinHeader_1x04_P2.00mm_Vertical",
+    "x": 96.0,
+    "y": 15.65,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -1.525,
+      -1.525,
+      9.05,
+      3.05
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        0.8
+      ],
+      [
+        2.0,
+        0.0,
+        0.8
+      ],
+      [
+        4.0,
+        0.0,
+        0.8
+      ],
+      [
+        6.0,
+        0.0,
+        0.8
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "c2922677-d4ef-4b31-88b2-e3c8a091d84b",
+    "name": "MountingHole_3.2mm_M3_DIN965_Pad",
+    "x": 118.5,
+    "y": 12.5,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -3.075,
+      -3.075,
+      6.15,
+      6.15
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        3.2
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "c82c6e42-48c9-4a85-ae87-66b4865615a1",
+    "name": "PinHeader_1x04_P2.54mm_Vertical",
+    "x": 94.45,
+    "y": 19.65,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -1.825,
+      -1.825,
+      11.25,
+      3.65
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        2.54,
+        0.0,
+        1.0
+      ],
+      [
+        5.08,
+        0.0,
+        1.0
+      ],
+      [
+        7.62,
+        0.0,
+        1.0
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "d273eb3e-5b2d-49ec-bb54-62a52d7c9653",
+    "name": "MountingHole_5.3mm_M5_DIN965_Pad",
+    "x": 135.5,
+    "y": 12.5,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -4.875,
+      -4.875,
+      9.75,
+      9.75
+    ],
+    "drills": [
+      [
+        0.0,
+        0.0,
+        5.3
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "df1d25fb-5c6c-4736-b5f5-c4aa91af4a9a",
+    "name": "trace_widths",
+    "x": 37.501,
+    "y": 5.5576,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -7.018,
+      -0.25,
+      14.034,
+      15.3848
+    ],
+    "drills": [],
+    "texts": [
+      {
+        "id": "f62153f7-814d-4415-af48-de8ec2f33ebe",
+        "text": "1.016",
+        "x": -12.0,
+        "y": 1.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "1c165b86-65df-432c-af88-1b1d0bf4f31c",
+        "text": "0.762",
+        "x": -12.0,
+        "y": 3.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "3363e2ba-268c-4ee1-9113-28ef3ae5a27b",
+        "text": "0.6096",
+        "x": -12.0,
+        "y": 5.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "24a29eaf-1186-455d-b6b0-06832c74aaf0",
+        "text": "0.4572",
+        "x": -12.0,
+        "y": 7.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "d67082fc-976e-4a1c-928e-ae60932b222a",
+        "text": "0.3048",
+        "x": -12.0,
+        "y": 9.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "763fc2c1-5d04-4b1f-adc4-4b935d21860e",
+        "text": "0.254",
+        "x": -12.0,
+        "y": 11.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "8229c068-1b47-4372-841c-87aba01d34aa",
+        "text": "0.2032",
+        "x": -12.0,
+        "y": 13.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "954db3fd-cbf1-4ba3-bc46-f33e68128a10",
+        "text": "0.1524",
+        "x": -12.0,
+        "y": 15.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "start",
+        "valign": "central"
+      },
+      {
+        "id": "9621d5d5-6a2e-42dd-b100-30c98f3dcee9",
+        "text": "mm",
+        "x": -10.0,
+        "y": -1.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "6046cbee-d449-4b03-a10b-d31ee8f1878b",
+        "text": "Trace Widths",
+        "x": 0.0,
+        "y": -1.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "d0fec5f5-ae46-4b73-80e1-ad1eceda0621",
+        "text": "mil",
+        "x": 9.0,
+        "y": -1.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "fed9a056-e37f-4ceb-b435-3af74e9622ce",
+        "text": "40",
+        "x": 9.0,
+        "y": 1.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "1fd01d97-9182-44b4-9e6d-10a009c76cbf",
+        "text": "30",
+        "x": 9.0,
+        "y": 3.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "2df45c39-1e9a-4af2-bc76-c344a674377f",
+        "text": "24",
+        "x": 9.0,
+        "y": 5.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "6ac71630-4687-41f3-b58d-fcacf7000489",
+        "text": "18",
+        "x": 9.0,
+        "y": 7.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "a0dc8031-f339-497f-a5ad-da3ba1d1a257",
+        "text": "12",
+        "x": 9.0,
+        "y": 9.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "fd159372-8b44-44d4-a63e-4f694acd2a14",
+        "text": "10",
+        "x": 9.0,
+        "y": 11.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "a2b6668f-829a-4f9f-8f0d-1ae2ebdd621c",
+        "text": "8",
+        "x": 9.0,
+        "y": 13.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      },
+      {
+        "id": "6ee27e5c-2439-4dca-9852-24008bbb3dec",
+        "text": "6",
+        "x": 9.0,
+        "y": 15.0,
+        "size": 1.0,
+        "rotation": -0.0,
+        "side": "F",
+        "mirror": false,
+        "align": "middle",
+        "valign": "central"
+      }
+    ]
+  },
+  {
+    "id": "f1d4f51e-aca7-4cd6-8500-4977cc6079d9",
+    "name": "R_0603_1608Metric",
+    "x": 5.5,
+    "y": 15.6,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -1.505,
+      -0.755,
+      3.01,
+      1.51
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "fdf9db65-6fe5-410f-ae5f-4b1c8b328366",
+    "name": "R_0805_2012Metric",
+    "x": 5.5,
+    "y": 13.4,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -1.705,
+      -0.975,
+      3.41,
+      1.95
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "0d8dbd63-46ac-490a-9962-37fb5643e644",
+    "name": "ICRS_28mm",
+    "x": 82.5,
+    "y": 12.5,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -9.872918,
+      -9.228391,
+      19.518753,
+      18.907378
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "2acd61ec-362c-46e5-8341-6e1c2e09991f",
+    "name": "Alert 40mm",
+    "x": 17.740332,
+    "y": 10.5,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -8.433104,
+      -7.366538,
+      26.63129,
+      18.007094
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "99f4756a-73ca-4354-8543-ec7f409bc791",
+    "name": "SOIC-8_3.9x4.9mm_P1.27mm",
+    "x": 31.5,
+    "y": 20.5,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -2.725,
+      -3.725,
+      5.45,
+      7.45
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "9f8c2f47-1e1e-4555-a664-f5922e993347",
+    "name": "QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm",
+    "x": 40.775,
+    "y": 20.275,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -3.625,
+      -3.625,
+      7.25,
+      7.25
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "d2080fe3-2ca1-4d33-ae82-42a4f8047688",
+    "name": "SOT-23",
+    "x": 24.0,
+    "y": 20.5,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -1.725,
+      -1.945,
+      3.45,
+      3.89
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "2971ebe4-e325-4936-90d2-bbb81dd4f511",
+    "name": "Reference frame / F.Silkscreen",
+    "x": 2.0,
+    "y": 6.666667,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": false,
+    "bounds": [
+      -0.1,
+      -0.1,
+      21.2,
+      15.2
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "bc2a8ef5-b1ac-4994-b876-4be33ed50733",
+    "name": "Reference frame / B.Silkscreen",
+    "x": 46.0,
+    "y": 8.75,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -0.075,
+      -0.075,
+      0.15,
+      9.65
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "7e950a0f-4e1d-4dea-a88c-7463188f6a0e",
+    "name": "Reference frame / B.Silkscreen",
+    "x": 50.25,
+    "y": 16.666667,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -0.075,
+      -9.575,
+      0.15,
+      9.65
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "32356cb8-a36b-4e5e-91b4-f10b0757b680",
+    "name": "Reference frame / B.Silkscreen",
+    "x": 68.0,
+    "y": 8.75,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -22.075,
+      -0.075,
+      22.15,
+      0.15
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "48a56b40-749d-46fa-9edb-3edb09c265e9",
+    "name": "Reference frame / B.Silkscreen",
+    "x": 68.0,
+    "y": 8.75,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -0.075,
+      -0.075,
+      0.15,
+      9.65
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "11cf7367-bd0f-4155-8cfc-e010afd2b255",
+    "name": "Reference frame / B.Silkscreen",
+    "x": 68.0,
+    "y": 16.666667,
+    "rotation": 0,
+    "side": "B.SilkS",
+    "both": false,
+    "bounds": [
+      -22.075,
+      -0.075,
+      22.15,
+      0.15
+    ],
+    "drills": [],
+    "texts": []
+  },
+  {
+    "id": "7075320b-6a04-45f1-9f9e-6fe78cebd007",
+    "name": "AWG hole Ø2.588",
+    "x": 51.5,
+    "y": 8.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -1.344,
+      -1.344,
+      2.688,
+      2.688
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        2.588
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "179d9390-8737-41ed-ae03-c3c086ff5ea9",
+    "name": "AWG hole Ø1.291",
+    "x": 51.5,
+    "y": 17.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.6955,
+      -0.6955,
+      1.391,
+      1.391
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        1.291
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "8623fc13-453a-4390-a24f-add693ace5a1",
+    "name": "AWG hole Ø2.305",
+    "x": 54.5,
+    "y": 8.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -1.2025,
+      -1.2025,
+      2.405,
+      2.405
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        2.305
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "bf1b3183-b0e4-49a0-9a8d-db2e73542eb4",
+    "name": "AWG hole Ø1.15",
+    "x": 54.5,
+    "y": 17.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.625,
+      -0.625,
+      1.25,
+      1.25
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        1.15
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "cd9a5f57-2c8d-4bf8-bb9c-0b50f4e3ed79",
+    "name": "AWG hole Ø2.053",
+    "x": 57.5,
+    "y": 8.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -1.0765,
+      -1.0765,
+      2.153,
+      2.153
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        2.053
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "f4a9e6a5-2bea-4699-aba2-7006b69eda6a",
+    "name": "AWG hole Ø1.024",
+    "x": 57.5,
+    "y": 17.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.562,
+      -0.562,
+      1.124,
+      1.124
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        1.024
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "54116401-bd26-4d22-b97a-641f4cdb30c2",
+    "name": "AWG hole Ø1.828",
+    "x": 60.5,
+    "y": 8.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.964,
+      -0.964,
+      1.928,
+      1.928
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        1.828
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "a21142a8-2633-4748-9367-70d5fdbf018b",
+    "name": "AWG hole Ø0.912",
+    "x": 60.5,
+    "y": 17.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.506,
+      -0.506,
+      1.012,
+      1.012
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        0.912
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "efa7417a-be0a-4a75-9c09-e060afc7e5e7",
+    "name": "AWG hole Ø1.628",
+    "x": 63.5,
+    "y": 8.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.864,
+      -0.864,
+      1.728,
+      1.728
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        1.628
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "93596c22-d726-4f25-aa41-53b59a05f563",
+    "name": "AWG hole Ø0.812",
+    "x": 63.5,
+    "y": 17.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.456,
+      -0.456,
+      0.912,
+      0.912
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        0.812
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "6c6a5bdb-1b36-4b34-81cb-be10302673f3",
+    "name": "AWG hole Ø1.45",
+    "x": 66.5,
+    "y": 8.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.775,
+      -0.775,
+      1.55,
+      1.55
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        1.45
+      ]
+    ],
+    "texts": []
+  },
+  {
+    "id": "249d8b47-36f0-4980-b92d-ad4d9a4cd122",
+    "name": "AWG hole Ø0.723",
+    "x": 66.5,
+    "y": 17.0,
+    "rotation": 0,
+    "side": "F.SilkS",
+    "both": true,
+    "bounds": [
+      -0.4115,
+      -0.4115,
+      0.823,
+      0.823
+    ],
+    "drills": [
+      [
+        0,
+        0,
+        0.723
+      ]
+    ],
+    "texts": []
+  }
+]

@@ -1,0 +1,15 @@
+const assert=require('node:assert/strict');
+const {LayoutHistory}=require('../tools/silkscreen-editor/history.js');
+const h=new LayoutHistory({x:0});
+h.record({x:1},'x',100);h.record({x:2},'x',200);
+assert.deepEqual(h.undo(),{x:0});assert.deepEqual(h.redo(),{x:2});
+h.record({x:3},'drag-a',300);h.record({x:4},'drag-b',400);
+assert.deepEqual(h.undo(),{x:3});assert.deepEqual(h.undo(),{x:2});
+h.record({x:5},null,500);assert.equal(h.canRedo,false);
+const bounded=new LayoutHistory({x:0},3);
+for(let x=1;x<10;x++)bounded.record({x},null,x);
+assert.equal(bounded.entries.length,3);assert.deepEqual(bounded.undo(),{x:8});
+const svg={items:[{svg:'<svg/>',rectangles:[[0,0,1,1]]}]};
+const copy=new LayoutHistory(svg);svg.items[0].rectangles[0][0]=.5;copy.record(svg);
+assert.equal(copy.undo().items[0].rectangles[0][0],0);
+console.log('Undo/redo: coalescing, drag boundaries, redo invalidation, limits and SVG snapshots passed');

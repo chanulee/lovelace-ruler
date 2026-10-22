@@ -1,0 +1,27 @@
+{
+  "source": "KiCad 10 installed official footprint library",
+  "url": "https://gitlab.com/kicad/libraries/kicad-footprints",
+  "license": "CC-BY-SA-4.0 with library exception",
+  "sha256": {
+    "Package_QFP.pretty/TQFP-64_10x10mm_P0.5mm.kicad_mod": "100c276562e06a972e028c72c61d1a35783f1cb53477d40a1920bf0270856068",
+    "Battery.pretty/Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles.kicad_mod": "e296353b36e9709fd27c67a114fca25acd02c3b54b4833413679af2c9bc41635",
+    "MountingHole.pretty/MountingHole_3.2mm_M3_Pad.kicad_mod": "8eb6a47c889b4aae89dca05264d1860d3ad1c78a0ccf15b72e54fdb7e9bb1a74",
+    "MountingHole.pretty/MountingHole_2.7mm_M2.5_Pad.kicad_mod": "2c45edc9571e3c3447ce01539c68469f1e0f8cc36c94642b41ba89eeb5ad500f",
+    "MountingHole.pretty/MountingHole_2.2mm_M2_Pad.kicad_mod": "8151349225b5b0f8d5e6639d032b0b418a068c1881128a4e055820f69ab4f853",
+    "Symbol.pretty/OSHW-Logo_7.5x8mm_SilkScreen.kicad_mod": "4fc524b2ac539e587f960b81cf64b976b19e478cbbe3da22c85b19eb6fe43b34",
+    "Connector_PinHeader_1.27mm.pretty/PinHeader_1x04_P1.27mm_Vertical.kicad_mod": "3d10b1d38de8cfe55f933865ba14fad76f5f404e8fa7d55c7d07a6963810edf2",
+    "Connector_FFC-FPC.pretty/Hirose_FH12-8S-0.5SH_1x08-1MP_P0.50mm_Horizontal.kicad_mod": "dfd56270e12e6334280e3437b01f94dd171a64162aebbfd07fe39f259939715a",
+    "Connector_FFC-FPC.pretty/Molex_200528-0080_1x08-1MP_P1.00mm_Horizontal.kicad_mod": "ba6bdf1332b3c97038d7594f4f7f2d595685d64220a3cc669a531d330066c38c",
+    "TestPoint.pretty/TestPoint_THTPad_D3.0mm_Drill1.5mm.kicad_mod": "dde86a4e21712009c2a0ff02ce6415484b19b0c85ee49fb3303ef2fa75efa541",
+    "TestPoint.pretty/TestPoint_Pad_D1.0mm.kicad_mod": "6d602c576b4ab0de29fa4cc096f419a62e828ba45ceee30c1263d86b420b2b12",
+    "TestPoint.pretty/TestPoint_THTPad_D1.0mm_Drill0.5mm.kicad_mod": "aa7e99d27448712aa4eb98993b8fe28297d965e99eca0a1db596d0acaca28b35",
+    "TestPoint.pretty/TestPoint_THTPad_D1.5mm_Drill0.7mm.kicad_mod": "51fd44ba020cca48e8d1f49dea74fe8bbf6087b9f5d932d50f96d0d00cdaa4ed",
+    "Connector_PinHeader_2.54mm.pretty/PinHeader_1x04_P2.54mm_Vertical.kicad_mod": "571d2d16b49795f8f9a91f96cc83fd2adf49890cd66c377189c44204ebd03c29",
+    "Package_DFN_QFN.pretty/QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm.kicad_mod": "76642e12c156ef6adc7f6330accf0826c78fb725152b6a770ae8ce25d49a3d31",
+    "Connector_JST.pretty/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.kicad_mod": "dd59286748b9a6fa9174237072608f811cf3169dddf00eab54a5c196fcb6f7e8",
+    "Connector_JST.pretty/JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal.kicad_mod": "d28e139f60db2bef02272b37d5075e87f3e804aef0b442d0fd81a3f7cfe07ebe",
+    "Connector_JST.pretty/JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.kicad_mod": "60f9bbf117276534d542e8f31e032cb1bb5f93f3b9b2c078336df356244aa86f",
+    "Connector_JST.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod": "fcf75d7a8c7a92e3748de7972eac2adc2bf2ea1adc2d10942df5f1be542d1320",
+    "Connector_USB.pretty/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod": "c562a7f9713a8b754c4d2305a2ea15453469a1c8c48a9b17973383e8993fc750"
+  }
+}

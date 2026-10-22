@@ -1,0 +1,12 @@
+{
+  "board": {
+    "name": "lovelace-ruler",
+    "id": "RULER-B",
+    "rev": "B",
+    "w": 155,
+    "h": 25,
+    "editable_components": true,
+    "color": "#17191b",
+    "notes": "실제 노출 구리 패드 + 흰 실크 · 원본 패드/드릴 치수 유지 · 제조 전 DRC 검토 필요\nQR 주소·전극 스냅 치수는 미정 · Ø1.5는 접점 참고 · NFC 회로 없음"
+  }
+}
